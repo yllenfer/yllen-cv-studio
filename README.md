@@ -35,4 +35,4 @@ npm run build
 ```
 
 ## Live Project
-[https://apryser.netlify.app/](PDF editor live page)
+[https://apryser.netlify.app/] (PDF editor live page)
