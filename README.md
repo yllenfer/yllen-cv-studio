@@ -1,6 +1,8 @@
-# Yllen CV Studio
+#  📃CV Studio
 
-A local React workspace for opening and editing CVs with Apryse WebViewer 12.2.1. The interface uses a classic 90s desktop publishing look, with clear **Open your CV** and **Download edited PDF** actions.
+A local React workspace for opening and editing CVs with Apryse WebViewer 12.2.1. The interface uses a classic 90s desktop publishing look, with clear **Open your CV** and **Download edited PDF** actions. Some of the documentation was hand-written by moi so I can avoid falling in the so called *"cognitive surrender"*
+
+Feel free to fork it or contribute if you think something's missing. The live demo uses my personal demo key.
 
 ## Run locally
 
@@ -31,3 +33,6 @@ The repository includes `netlify.toml` with the Vite build command (`npm run bui
 npm run lint
 npm run build
 ```
+
+## Live Project
+[https://apryser.netlify.app/](PDF editor live page)
